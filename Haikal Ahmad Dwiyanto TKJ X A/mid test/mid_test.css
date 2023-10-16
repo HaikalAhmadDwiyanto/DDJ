@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;  
+}
+p{
+    text-align: justify;
+}
+img{
+    margin: 50px;
+    padding: 70px;
+}
+table, th, td{
+    border: 2px solid;
+}
